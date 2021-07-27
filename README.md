@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=danghieuthang&style=flat-square)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
