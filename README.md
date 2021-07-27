@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning FPT University
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true)
+
 
 
 ![](https://komarev.com/ghpvc/?username=danghieuthang&style=flat-square)
