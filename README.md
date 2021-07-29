@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning FPT University
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&hide_border=false&&count_private=true&&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,typescript&langs_count=100&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,typescript&langs_count=8&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danghieuthang)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=danghieuthang&style=flat-square)
