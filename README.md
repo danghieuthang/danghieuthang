@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning FPT University
-- 🔭 I’m currently working as a part-time developer on Dozada
+- 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&hide_border=false&&count_private=true&&theme=tokyonight" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,typescript&langs_count=8&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
