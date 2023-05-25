@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&hide_border=false&&count_private=true&&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,typescript,scss&langs_count=8&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,typescript,scss,html,less&langs_count=8&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=danghieuthang&style=flat-square)
