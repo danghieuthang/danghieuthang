@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danghieuthang" alt="danghieuthang" /></a> </p>
 
 - 🔭 I’m currently working on **FPT Software**
+- 🌱 I’m currently learning **Swift** and **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
