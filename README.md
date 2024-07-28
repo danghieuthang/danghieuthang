@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on **FPT Software**
 - 🌱 I’m currently learning **Swift** and **SwiftUI**
+- 💬 Ask me about **C#/.NET**
 - 📫 How to reach me **dhthang1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
