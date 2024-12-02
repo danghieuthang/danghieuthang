@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danghieuthang" alt="danghieuthang" /></a> </p>
 
 - 🔭 I’m currently working on **FPT Software**
-- 🌱 I’m currently learning **Swift** and **SwiftUI**
+- 🌱 Always learning and growing!
 - 💬 Ask me about **C#/.NET**
 - 📫 How to reach me **dhthang1998@gmail.com**
 
