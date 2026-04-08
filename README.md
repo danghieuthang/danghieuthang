@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danghieuthang&theme=nord&column=7&no-frame=true" alt="danghieuthang trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=danghieuthang&theme=nord&column=7&no-frame=true&margin-w=4" alt="danghieuthang trophies" />
   </a>
 </div>
 
@@ -63,12 +63,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="danghieuthang stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,vue,scss,html,less&langs_count=8&layout=compact&theme=tokyonight" alt="danghieuthang top langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danghieuthang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="danghieuthang stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danghieuthang&hide=css,vue,scss,html,less&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=86400" alt="danghieuthang top langs" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danghieuthang&theme=tokyonight" alt="danghieuthang streak" />
+  <img src="https://streak-stats.demolab.com/?user=danghieuthang&theme=tokyonight" alt="danghieuthang streak" />
 </div>
 
 ---
