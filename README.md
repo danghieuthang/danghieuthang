@@ -12,21 +12,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working at **FPT Software**
-- 💼 Software Engineer specializing in backend development
-- 🌱 Always learning and growing — currently exploring **Go** & **Cloud-native** patterns
-- 💬 Ask me about **C# / .NET**, **Microservices**, **Docker**, or **SQL**
-- 📫 Reach me at **dhthang1998@gmail.com**
-- ⚡ Fun fact: I love clean code and clean coffee ☕
+- 💼 Backend Software Engineer at **FPT Software**
+- ⚙️ Focused on **C# / .NET**, **Microservices**, **Docker**, and **SQL**
+- 🌱 Currently deep-diving into **System** and **Cloud-native** architecture
+- 📫 Contact: **dhthang1998@gmail.com**
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 🧩 GitHub Profile Summary
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danghieuthang&theme=nord&column=7&no-frame=true&margin-w=4" alt="danghieuthang trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danghieuthang&theme=tokyonight" alt="danghieuthang profile summary" />
 </div>
 
 ---
@@ -55,6 +52,7 @@
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
@@ -84,16 +82,16 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/dang-hieu-thang" target="blank">
+  <a href="https://linkedin.com/in/dang-hieu-thang" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dang-hieu-thang" height="30" width="40" />
   </a>
-  <a href="https://dev.to/danghieuthang" target="blank">
+  <a href="https://dev.to/danghieuthang" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danghieuthang" height="30" width="40" />
   </a>
-  <a href="https://fb.com/bachde.lachanh" target="blank">
+  <a href="https://fb.com/bachde.lachanh" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bachde.lachanh" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/dhthang1998" target="blank">
+  <a href="https://www.hackerrank.com/dhthang1998" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhthang1998" height="30" width="40" />
   </a>
 </p>
